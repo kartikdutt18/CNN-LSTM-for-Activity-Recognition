@@ -11,3 +11,4 @@ i.e., greenery.
 
 Some of the videos are captured in different illuminations, poses, and from different viewpoints. One of
 the major challenges in this dataset is its realistic actions performed in real life, which is unique compared to other datasets where actions are performed by an actor.
+Advantage of such a network is that it can be trained on systems slower which don't have access to multiple GPU's.
