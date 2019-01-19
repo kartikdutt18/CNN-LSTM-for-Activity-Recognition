@@ -15,3 +15,6 @@ Advantage of such a network is that it can be trained on systems slower which do
 This model can achieve upto 78% accuracy with convnet as resnet.
 
 To reproduce results:
+(1.) Train CNN for classification
+(2.) Extract Features
+(3.) Train LSTM
