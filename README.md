@@ -18,4 +18,3 @@ To reproduce results:
 (1.) Train CNN for classification
 (2.) Extract Features
 (3.) Train LSTM
-# USE CUDA TO REDUCE WEEKS OF TRAINING INTO DAYS
